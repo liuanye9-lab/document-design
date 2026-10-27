@@ -1,0 +1,6 @@
+interface:
+  display_name: "文档设计与排版"
+  short_description: "为正式与在线文档统一信息层级、版式设计与质量验收"
+  default_prompt: "Use $document-design to create or improve a clear formal and online document with layout QA."
+policy:
+  allow_implicit_invocation: true
